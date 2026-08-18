@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo! I'm glad you're interested in my profile!
+# Hello, my name is Gustavo! It's a pleasure to have you here. Below, you can learn a little more about my profile and my journey in the technology field.
 ---
 
 ## 📫 Contact
