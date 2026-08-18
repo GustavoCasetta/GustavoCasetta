@@ -12,7 +12,6 @@
 
 * 🎓 Student / Technology enthusiast
 * 💻 Focused on programming, networking, and information security.
-* 🌌 Creator of science fiction universes
 * 🎲 Passionate about RPGs and storytelling.
 
 ---
